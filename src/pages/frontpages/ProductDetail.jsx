@@ -145,7 +145,7 @@ export default function ProductDetail() {
           <p className="text-gray-500 leading-relaxed max-w-lg">
             {p.name} merupakan produk skincare pilihan
             dari Glowé Skin yang dirancang untuk membantu
-            merawat kulit agar tetap sehat, lembap,
+            merawat kulit agar tetap sehat, lembab,
             dan glowing.
           </p>
 
