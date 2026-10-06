@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Playfair+Display:wght@400;500;600&display=swap');
+
+@import "tailwindcss";
+
+:root {
+  font-family: "DM Sans", sans-serif;
+  color: #222222;
+  background: #faf9f7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #faf9f7;
+  color: #222222;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+}
+
+.font-display {
+  font-family: "Playfair Display", serif;
+}
+
+::selection {
+  background: #ead0d7;
+  color: #222222;
+}
